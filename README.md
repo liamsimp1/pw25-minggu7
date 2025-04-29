@@ -17,7 +17,7 @@ Berikut hasil screenshot website tugas pemweb minggu ke-7.
 ![Page Biaya](Screenshot%20web/image.png)
 
 5. Jadwal dokter
-![Jadwal Dokter](Screenshot%20web/<Jadwal Dokter.jpeg>)
+![Jadwal Dokter](Screenshot%20web/Jadwal%20Dokter.jpeg)
 
 6. Page buat janji
 ![Buat Janji](Screenshot%20web/image-6.png)
