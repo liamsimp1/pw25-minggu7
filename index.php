@@ -55,6 +55,7 @@ $title = "Kaziya Dental";
     <button class="btn" onclick="location.href='login.php'">
         <i class = "fa fa-right-to-bracket"></i> Login</button>
     <button class="btn" onclick="location.href='signup.php'">
+        <i class = "fa fa-user-plus"></i> Signup</button>
 </div>
 
 <div class="row">
