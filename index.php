@@ -1,7 +1,7 @@
 <?php
-session_start(); // Memulai sesi jika diperlukan
+session_start();
 
-$title = "Kaziya Dental"; // Judul halaman
+$title = "Kaziya Dental"; 
 ?>
 
 <!doctype html>

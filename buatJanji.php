@@ -30,7 +30,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "<script>alert('Gagal mempersiapkan query!');</script>";
     }
 
-    // Tutup koneksi
     $conn->close();
 }
 ?>
